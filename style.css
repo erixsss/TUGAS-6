@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+html, body {height: 100%;}
+.background-body {background-color: #fafafa;}
+
+#body-content {
+    height: 90%;
+    overflow-y: scroll;}
+
+.body-content {
+    height: 90%;
+    overflow-y: scroll;}
+
+.nav-background1 {background-color: #FFF;}
+.nav-background2 {background-color: rgb(219, 199, 141);}
+.nav-background3 {background-color: rgb(228, 148, 217);}
+
+.right {
+    position: absolute;
+    right: 0px;
+    width: 600px;
+}
+.jumbotron1 {
+    background: url(http://i66.tinypic.com/28am9fs.jpg);
+    background-size: cover;
+    min-height: 300px;
+}
+.jumbotron1-text {color: white;}
+.jumbotron1-text-align {text-align: center;}
+.center-btn {
+    display: block;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 12rem;
+}
+#float li {
+    float: left;
+    list-style: none;
+}
+/* .vertikal {align-content: center;} */
+#float {font-size: 12px;}
+.text-color {
+    margin-left: 5em;
+    color: red;
+}
+.margin-btm {margin-bottom: 20px;}
+
+#mondok {
+    color: white;
+    text-align: center;}
+
+#mondok1 {
+    text-align: center;
+    color: black;
+    background-color : #FFF;}
+#mondok2 {
+    text-align: center;
+    
+        }
+#sponsor {
+    text-align: center;
+    background-color: #FFF !important;
+}
+#img3 img {
+    height: 80%;
+    width: 40%;
+}
+#img4 img {
+    height: 50%;
+    width: 90%;
+}
+#kontak {text-align: center;}
+#copyright {
+    background-color: #FFF;
+}
+.lebar {width: 100%;}
+.font {
+    color: rgb(108, 117, 125); 
+    font-size: 15px;}
+    /* #login-body {margin: 20 auto;} */
